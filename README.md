@@ -50,7 +50,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;嗨，你好，我是李雨宸。热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
@@ -61,26 +61,18 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
-
-- [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— 2024-08-28
-
-  - 工作岗位：软件研发工程师
-  - 工作内容：软件开发与维护
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
-
-- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
-
-  - 工作岗位：Web 前端开发工程师
-  - 工作内容：一些杂活
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
-
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
-
-  - 工作岗位：Web 前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
+2023.1-2023.6 智能农业物联网终端 （毕业设计）
+技术栈：STM32F407 + LoRa + FreeRTOS + 传感器融合，开发 LoRaWAN
+自适应跳频算法，在农田复杂环境下通信成功率提升至 95%
+意向职位 嵌入式开发
+【技术能力】 TECHNICAL EXPERTISE
+李雨宸 LIYUCHEN
+2022.1-2022.8 工业电机控制器 （全国电子设计大赛）
+技术栈：STM32H743 + CANopen + FOC 算法，开发基于 Hall 传感器的
+FOC 启动算法，解决电机启动抖动问题
+2023.6-2023.9 可穿戴健康监测设备 （乾元集成电路有限公司）
+技术栈：nRF52832 + BLE + 自适应滤波算法。实现 PPG 信号动态基线消
+除算法，运动状态下心率检测准确率提升至 89%
 
 </td></tr>
 
